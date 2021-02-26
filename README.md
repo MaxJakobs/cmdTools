@@ -1,4 +1,4 @@
-# Cammand Line Utilities
+# Command Line Utilities
 
 ```unzipAll.sh [path/to/folder]```
 
